@@ -1,1 +1,1 @@
-web: lein run -m heroku_helloworld.core
+web: lein run -m heroku_helloworld.core 
